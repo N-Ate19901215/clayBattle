@@ -1,0 +1,13 @@
+C:\NK_ibe_hosyuu\DX_Library\x64\Debug\DX_Library.exe
+C:\NK_ibe_hosyuu\DX_TEST\x64\Debug\DX_Library.exe
+C:\NK_ibe_hosyuu\DX_TEST_6_23\DX_TEST\x64\Debug\DX_Library.exe
+C:\game_file\DX_TEST_6_13\DX_TEST\x64\Debug\DX_Library.exe
+C:\game_file\DX_TEST_6_13_seni\DX_TEST\x64\Debug\DX_Library.exe
+C:\game_file\DX_TEST_6_20\DX_TEST\x64\Debug\DX_Library.exe
+C:\Users\yuuku\Downloads\DX_TEST_6_27\DX_TEST_6_20\DX_TEST\x64\Debug\DX_Library.exe
+C:\game_file\DX_TEST_629\x64\Debug\DX_Library.exe
+C:\Users\yuuku\Downloads\DX_TEST_0704\DX_TEST_0704\x64\Debug\DX_Library.exe
+C:\Users\de-11d-391\Desktop\DX_Crey_0705\DX_TEST_0704\x64\Debug\DX_Library.exe
+C:\Users\yuuku\Downloads\DX_Crey_0705\DX_Crey_0705\DX_TEST_0704\x64\Debug\DX_Library.exe
+C:\Users\yuuku\デスクトップ\7_11_Crey\DX_TEST_0704\x64\Debug\DX_Library.exe
+C:\Users\yuuku\Downloads\DoubleTrapCreyBattle_07_16_solo&zaisitu\DoubleTrapCreyBattle_07_16_solo&zaisitu\7_11_Crey\DX_TEST_0704\x64\Debug\DX_Library.exe
